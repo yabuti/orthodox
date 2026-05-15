@@ -19,6 +19,9 @@ const HomePage: React.FC<HomePageProps> = ({ language }) => {
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
             {t('welcome')}
           </h1>
+          <p className="text-lg font-medium text-gray-700 mb-4">
+            {t('churchName')}
+          </p>
           <p className="text-xl font-semibold mb-4" style={{ color: 'var(--orthodox-blue)' }}>
             {t('subtitle')}
           </p>

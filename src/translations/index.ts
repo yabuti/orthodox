@@ -10,6 +10,7 @@ export const translations = {
     // Home Page
     welcome: 'Welcome to Ethiopian Orthodox Church',
     subtitle: 'Student Registration System',
+    churchName: 'ASCO Debre Medhanit Medhanealhem and Kidus Giyorgis Betekristiyan Meserete Hiywot Senbet Timhirt Bet',
     description: 'Register new students for our church education program. We provide quality religious education rooted in Ethiopian Orthodox traditions.',
     getStarted: 'Get Started',
     learnMore: 'Learn More',
@@ -90,6 +91,7 @@ export const translations = {
     // Home Page
     welcome: 'እንኳን ወደ ኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን በደህና መጡ',
     subtitle: 'የተማሪ መመዝገቢያ ስርዓት',
+    churchName: 'አስኮ ደብረ መድኃኒት መድኃኔዓለም እና ቅዱስ ጊዮርስ ቤተክርስቲያን መሠረተ ሕይወት ሰንበት ትምህርት ቤት',
     description: 'ለቤተ ክርስቲያናችን የትምህርት ፕሮግራም አዲስ ተማሪዎችን ያስመዝግቡ። በኢትዮጵያ ኦርቶዶክስ ወጎች ላይ የተመሰረተ ጥራት ያለው ሃይማኖታዊ ትምህርት እንሰጣለን።',
     getStarted: 'ይጀምሩ',
     learnMore: 'ተጨማሪ ይወቁ',

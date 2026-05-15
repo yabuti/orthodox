@@ -65,7 +65,7 @@ const Signup: React.FC<SignupProps> = ({ language }) => {
           <div style={{ textAlign: 'center', marginBottom: '1.5rem' }}>
             <img src="/logo.webp" alt="EOTC Logo" style={{ height: '70px', margin: '0 auto 0.75rem' }} />
             <h1 style={{ color: '#fff', fontSize: '1.25rem', fontWeight: '600', marginBottom: '0.25rem' }}>
-              {language === 'am' ? 'ኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን' : 'Ethiopian Orthodox Tewahedo Church'}
+              {language === 'am' ? 'አስኮ ደብረ መድኃኒት መድኃኔዓለም እና ቅዱስ ጊዮርስ ቤተክርስቲያን መሠረተ ሕይወት ሰንበት ትምህርት ቤት' : 'ASCO Debre Medhanit Medhanealhem and Kidus Giyorgis Betekristiyan Meserete Hiywot Senbet Timhirt Bet'}
             </h1>
             <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '0.9rem' }}>
               {language === 'am' ? 'የተማሪ ምዝገባ ስርዓት' : 'Student Registration System'}

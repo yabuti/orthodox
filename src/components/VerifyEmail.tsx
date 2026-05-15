@@ -53,7 +53,7 @@ const VerifyEmail: React.FC<VerifyEmailProps> = ({ language }) => {
           <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
             <img src="/logo.webp" alt="EOTC Logo" style={{ height: '80px', margin: '0 auto 1rem' }} />
             <h1 style={{ color: '#fff', fontSize: '1.5rem', fontWeight: '600', marginBottom: '0.5rem' }}>
-              {language === 'am' ? 'ኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን' : 'Ethiopian Orthodox Tewahedo Church'}
+              {language === 'am' ? 'አስኮ ደብረ መድኃኒት መድኃኔዓለም እና ቅዱስ ጊዮርስ ቤተክርስቲያን መሠረተ ሕይወት ሰንበት ትምህርት ቤት' : 'ASCO Debre Medhanit Medhanealhem and Kidus Giyorgis Betekristiyan Meserete Hiywot Senbet Timhirt Bet'}
             </h1>
           </div>
 
